@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c10238b-8cc1-4a3a-8d08-15adc4f5fb98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AI Based Email Classifier.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/app-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/About.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/Blog-Template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/Contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/Post-Template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/Result.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/2020-09-08_text-classification-tools-services.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/37600541-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/6391618_082720-wls-cj-jalyn-anim-vote-mail-vid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/Gmail-logo-166x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/IMG-20190104-WA0007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/IMG-20190307-WA0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/IMG-20200614-WA0036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/acss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/feedback_solar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/ffffff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/hssjkyf6i6m51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/images/yyy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/nicepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/2020-09-08_text-classification-tools-services.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/37600541-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/6391618_082720-wls-cj-jalyn-anim-vote-mail-vid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/Gmail-logo-166x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/IMG-20190104-WA0007.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/IMG-20190307-WA0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/IMG-20200614-WA0036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/acss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/feedback_solar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/ffffff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/hssjkyf6i6m51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/yyy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/nicepage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/About.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/result.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rTaZfKWIv9Q6nIefKjfebMdMZD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c10238b-8cc1-4a3a-8d08-15adc4f5fb98" name="Default Changelist" comment="" />
+      <created>1619002595442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619002595442</updated>
+    </task>
+    <servers />
+  </component>
+</project>
